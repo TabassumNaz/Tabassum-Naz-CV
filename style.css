@@ -1,0 +1,25 @@
+Body {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+    background-color: beige;
+   border: 2px solid black;
+}
+    h1 {
+        color: rgb(35, 35, 133);
+        text-decoration: underline;
+        line-height: 20px;
+        word-spacing: 10px;
+        text-transform: capitalize;
+        text-align: left;
+        text-indent: 40px;
+    }
+.para{
+    border: 2px solid rgb(35, 35, 133);
+    outline: 2px solid rgb(95, 173, 247);
+    padding: 20px 10px 10px 20px;
+    line-height:20px;
+    Margin: 20px 10px 10px 10px; 
+    text-align: justify;
+
+}
+
